@@ -1,3 +1,5 @@
+**Archived version, further development moved to the [Randonnees-Datatrek fork](https://github.com/Randonnees-Datatrek/data-trek-2020)**
+
 # Data.Trek 2020
 ## Project Management
 
